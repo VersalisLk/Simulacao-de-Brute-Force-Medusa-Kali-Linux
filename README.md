@@ -123,7 +123,7 @@ Ao realizarmos esses testes, podemos compreender na prática como os ataques de 
 
 As simulações também mostram a importancia de políticas de senhas, monitoramento de autenticação, limitação de tentativas e medidas adicionais de segurança.
 
-O projeto contribuiu para ampliar meus conhecimentos sobre ferramentas de auditoria, vulnerabilidades de autenticação e medidaa de prevenção em segurança da informação.
+O projeto contribuiu para ampliar meus conhecimentos sobre ferramentas de auditoria, vulnerabilidades de autenticação e medidas de prevenção em segurança da informação.
 
 !!!AVISO!!!
 <br>Todas as atividades deste projeto possuem finalidade (EXCLUSIVAMENTE) educacional e são realizadas em ambiente de laboratório controlado.
