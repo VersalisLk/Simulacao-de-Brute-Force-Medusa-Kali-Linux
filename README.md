@@ -126,5 +126,5 @@ As simulações também mostram a importancia de políticas de senhas, monitoram
 O projeto contribuiu para ampliar meus conhecimentos sobre ferramentas de auditoria, vulnerabilidades de autenticação e medidas de prevenção em segurança da informação.
 
 !!!AVISO!!!
-<br>Todas as atividades deste projeto possuem finalidade (EXCLUSIVAMENTE) educacional e são realizadas em ambiente de laboratório controlado.
+<br>Todas as atividades deste projeto possuem finalidades (EXCLUSIVAMENTE) educacionais e são realizadas em ambiente de laboratório controlado.
 <br>(Nenhum teste deve ser executado contra sistemas, serviços ou contas sem autorização!)
